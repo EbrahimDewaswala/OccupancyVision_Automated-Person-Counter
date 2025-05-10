@@ -1,0 +1,9 @@
+https://plainenglish.io/blog/convert-a-python-project-to-an-executable-exe-file
+
+
+pip install auto-py-to-exe
+
+
+browse path.
+if you want only one big exe file, choose one file option
+else one directory option will give you files in multiple directories.
